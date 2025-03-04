@@ -2,15 +2,11 @@ import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
-import './tutorial.ts'
-import './union.ts'
-import './challenge-union.ts'
-import './Array-of-object.ts'
-import './function/functions.ts'
 import '../src/function/Task-4.ts'
 import '../src/Type/type-Exercise-1.ts'
 import './Interface/interface-exercise-1.ts';
 import './Interface/method-Exercise-2.ts'
+import './Turples and Enums/Exercise-1.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
