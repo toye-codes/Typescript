@@ -1,0 +1,3 @@
+Interface is used to describe the shape for objects. It accepts only object
+
+Inerface accepts methods within it object. The method may/can have a parameter and may not.

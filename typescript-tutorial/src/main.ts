@@ -3,8 +3,15 @@ import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
 import '../src/function/Task-4.ts'
+<<<<<<< HEAD
 import '../src/types/type-alias.ts'
 import "../src/types/Merging.ts";
+=======
+import '../src/Type/type-Exercise-1.ts'
+import './Interface/interface-exercise-1.ts';
+import './Interface/method-Exercise-2.ts'
+import './Turples and Enums/Exercise-1.ts'
+>>>>>>> 502a98bc83b486ca5ddf2d2dfcb3c03a9631c645
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
